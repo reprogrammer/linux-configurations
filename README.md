@@ -1,4 +1,4 @@
-vim-configurations
+linux-configurations
 ==================
 
-Vim configurations and customizations
+Linux configurations and customizations
