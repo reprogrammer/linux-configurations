@@ -1,5 +1,5 @@
 filetype plugin indent on
-autocmd Filetype java,tex,bib,xml,html,ruby,vim setlocal expandtab | setlocal shiftwidth=2 | setlocal softtabstop=2
+autocmd Filetype java,tex,bib,xml,html,ruby,vim,r setlocal expandtab | setlocal shiftwidth=2 | setlocal softtabstop=2
 set textwidth=80
 set ignorecase "Ignore case when searching
 set hlsearch "Highlight search things
