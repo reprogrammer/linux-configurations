@@ -6,7 +6,7 @@ set hlsearch "Highlight search things
 set incsearch "Make search act like search in modern browsers
 set spell spelllang=en_us "switches on spell checking
 setlocal spell spelllang=en_us "switches on spell checking
-color elflord
+color ron
 "http://vim.wikia.com/wiki/Display_output_of_shell_commands_in_new_window
 command! -complete=shellcmd -nargs=+ Shell call s:RunShellCommand(<q-args>)
 function! s:RunShellCommand(cmdline)
